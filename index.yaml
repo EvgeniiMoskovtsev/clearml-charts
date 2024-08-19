@@ -39,6 +39,6 @@ entries:
     - https://github.com/allegroai/clearml
     type: application
     urls:
-    - https://github.com/EvgeniiMoskovtsev/clearml-charts.git/clearml-7.11.1.tgz
+    - https://evgeniimoskovtsev.github.io/clearml-charts/clearml-7.11.1.tgz
     version: 7.11.1
 generated: "2024-08-19T16:25:16.276464+03:00"
